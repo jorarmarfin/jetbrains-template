@@ -1,0 +1,4 @@
+-Xmx2241m
+-Dide.managed.by.toolbox=/home/lmayta/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=dea23abd-39b9-4193-a6e0-a01c580a8c96
+-Dtoolbox.notification.portFile=/home/lmayta/.cache/JetBrains/Toolbox/ports/346b07a5-785a-484e-b1fe-1a2f01e2ebe3.port

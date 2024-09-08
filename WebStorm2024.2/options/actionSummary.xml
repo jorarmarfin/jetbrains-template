@@ -1,0 +1,217 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="3" l="1725600717171" />
+    </e>
+    <e n="About">
+      <i c="1" l="1725599085693" />
+    </e>
+    <e n="ActivateCommitToolWindow">
+      <i c="2" l="1725601919408" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="16" l="1725601774731" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="2" l="1725601631973" />
+    </e>
+    <e n="ActivateVersionControlToolWindow">
+      <i c="1" l="1725601919955" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="1" l="1725598999578" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="1" l="1725599077679" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="1" l="1725601558672" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="2" l="1725600563716" />
+    </e>
+    <e n="CollapseAllRegions">
+      <i c="2" l="1725570263294" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="2" l="1725601587205" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="220" l="1725601625340" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="40" l="1725601613563" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="4" l="1725600216848" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1725600685270" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1725600410469" />
+    </e>
+    <e n="EditorDelete">
+      <i c="29" l="1725601611773" />
+    </e>
+    <e n="EditorDown">
+      <i c="350" l="1725601570885" />
+    </e>
+    <e n="EditorEnter">
+      <i c="35" l="1725601588964" />
+    </e>
+    <e n="EditorEscape">
+      <i c="6" l="1725601281202" />
+    </e>
+    <e n="EditorLeft">
+      <i c="252" l="1725601407604" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="19" l="1725601588276" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1725600169132" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1725600169698" />
+    </e>
+    <e n="EditorPaste">
+      <i c="8" l="1725600691950" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="15" l="1725600684380" />
+    </e>
+    <e n="EditorRight">
+      <i c="22" l="1725601476546" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="1" l="1725600705815" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1725599725784" />
+    </e>
+    <e n="EditorUp">
+      <i c="193" l="1725601577581" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="3" l="1725601165773" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="1" l="1725570280680" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1725572097739" />
+    </e>
+    <e n="MethodDown">
+      <i c="1" l="1725600704454" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="4" l="1725572090949" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="1" l="1725570118415" />
+    </e>
+    <e n="NewJavaScriptFile">
+      <i c="1" l="1725598941481" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1725687794842" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1725598733689" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1725599096877" />
+    </e>
+    <e n="Run">
+      <i c="5" l="1725687835745" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="4" l="1725601560089" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="12" l="1725601475820" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1725599010219" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1725600347972" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1725599638157" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1725687945834" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="28" l="1725601207642" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="24" l="1725601197563" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1725569499268" />
+    </e>
+    <e n="com.github.copilot.chat.message.codeblock.InsertCodeBlockAtCaretAction">
+      <i c="1" l="1725570745847" />
+    </e>
+    <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$11">
+      <i c="1" l="1725599660460" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1725599019963" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1725566083937" />
+    </e>
+    <e n="com.intellij.ml.inline.completion.impl.MLCompletionNotifications$action$1">
+      <i c="1" l="1725569562645" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1725601936441" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1725601201914" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1725601561445" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1725599012300" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="14" l="1725601780046" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1725599137757" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1725602294731" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1725599658800" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="5" l="1725598942875" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="3" l="1725601389052" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="2" l="1725601395610" />
+    </e>
+    <e n="com.intellij.vcs.commit.RerunCommitChecksAction">
+      <i c="1" l="1725601795304" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="29" l="1725601595322" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1725598737581" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
+      <i c="1" l="1725601924320" />
+    </e>
+  </component>
+</application>

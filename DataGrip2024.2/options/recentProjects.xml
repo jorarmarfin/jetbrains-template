@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/ayacucho">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ayacucho – console [indicadores@localhost]" opened="true" projectWorkspaceId="2kFgOydTN0lMOH1atVt5ZhCSmbA">
+              <option name="activationTimestamp" value="1725693241267" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-242.21829.162" />
+              <option name="buildTimestamp" value="1724950920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="56" y="27" width="1864" height="1053" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1725687933679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DataGripProjects/ayacucho" />
+  </component>
+</application>
