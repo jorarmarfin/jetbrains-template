@@ -1,5 +1,11 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1725769425632" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1725770755983" />
+    </e>
     <e n="$Undo">
       <i c="3" l="1725600717171" />
     </e>
@@ -31,13 +37,13 @@
       <i c="2" l="1725600563716" />
     </e>
     <e n="CollapseAllRegions">
-      <i c="2" l="1725570263294" />
+      <i c="5" l="1725770062518" />
     </e>
     <e n="CollapseRegion">
-      <i c="2" l="1725601587205" />
+      <i c="3" l="1725768671524" />
     </e>
     <e n="EditorBackSpace">
-      <i c="220" l="1725601625340" />
+      <i c="230" l="1725769797288" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="40" l="1725601613563" />
@@ -46,13 +52,13 @@
       <i c="4" l="1725600216848" />
     </e>
     <e n="EditorCopy">
-      <i c="6" l="1725600685270" />
+      <i c="21" l="1725770756294" />
     </e>
     <e n="EditorCut">
       <i c="8" l="1725600410469" />
     </e>
     <e n="EditorDelete">
-      <i c="29" l="1725601611773" />
+      <i c="31" l="1725768202492" />
     </e>
     <e n="EditorDown">
       <i c="350" l="1725601570885" />
@@ -64,19 +70,19 @@
       <i c="6" l="1725601281202" />
     </e>
     <e n="EditorLeft">
-      <i c="252" l="1725601407604" />
+      <i c="254" l="1725769381815" />
     </e>
     <e n="EditorLineEnd">
       <i c="19" l="1725601588276" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1725600169132" />
+      <i c="4" l="1725770328780" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="1" l="1725600169698" />
     </e>
     <e n="EditorPaste">
-      <i c="8" l="1725600691950" />
+      <i c="21" l="1725770798304" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="15" l="1725600684380" />
@@ -97,13 +103,19 @@
       <i c="3" l="1725601165773" />
     </e>
     <e n="ExpandAllRegions">
-      <i c="1" l="1725570280680" />
+      <i c="2" l="1725769630366" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="1" l="1725572097739" />
     </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1725768669172" />
+    </e>
     <e n="MethodDown">
       <i c="1" l="1725600704454" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1725766840640" />
     </e>
     <e n="MoveStatementDown">
       <i c="4" l="1725572090949" />
@@ -139,7 +151,7 @@
       <i c="2" l="1725600347972" />
     </e>
     <e n="ShowSettings">
-      <i c="3" l="1725599638157" />
+      <i c="17" l="1725770757223" />
     </e>
     <e n="Stop">
       <i c="4" l="1725687945834" />
@@ -157,7 +169,16 @@
       <i c="1" l="1725570745847" />
     </e>
     <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$11">
-      <i c="1" l="1725599660460" />
+      <i c="14" l="1725770784595" />
+    </e>
+    <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$12">
+      <i c="4" l="1725770077403" />
+    </e>
+    <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$13">
+      <i c="2" l="1725769776890" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1725770381585" />
     </e>
     <e n="com.intellij.ide.plugins.PluginManagerMain$3">
       <i c="1" l="1725599019963" />
@@ -189,8 +210,11 @@
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="3" l="1725602294731" />
     </e>
+    <e n="com.intellij.ui.CommonActionsPanel$1">
+      <i c="1" l="1725769785983" />
+    </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
-      <i c="1" l="1725599658800" />
+      <i c="18" l="1725770783337" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="5" l="1725598942875" />
@@ -208,7 +232,7 @@
       <i c="29" l="1725601595322" />
     </e>
     <e n="editRunConfigurations">
-      <i c="1" l="1725598737581" />
+      <i c="2" l="1725766841865" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
       <i c="1" l="1725601924320" />

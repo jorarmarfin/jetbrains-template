@@ -1,0 +1,7 @@
+<templateSet group="React hooks">
+  <template name="react-use-popup" value="import {useState} from &quot;react&quot;;&#10;&#10;export const usePopup = () =&gt; {&#10;    const [Modal, setModal] = useState()&#10;    const openModal = () =&gt; {&#10;        setModal(true);&#10;    }&#10;&#10;    const closeModal = () =&gt; {&#10;        setModal(false);&#10;    }&#10;&#10;    return {&#10;        Modal,&#10;        openModal,&#10;        closeModal&#10;    }&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
