@@ -1,16 +1,16 @@
 <templateSet group="Redux">
-  <template name="redux-store" value="import {configureStore} from &quot;@reduxjs/toolkit&quot;;&#10;import {AuthSlice, ProductsSlice, TransactionsSlice, UnitMeasurementSlice} from &quot;./slices/index.js&quot;;&#10;&#10;export const store = configureStore({&#10;    reducer: {&#10;        auth: AuthSlice.reducer,&#10;        products: ProductsSlice.reducer,&#10;        unitMeasurement: UnitMeasurementSlice.reducer,&#10;        transactions: TransactionsSlice.reducer,&#10;    },&#10;    // middleware: (getDefaultMiddleware) =&gt; getDefaultMiddleware({&#10;    //     serializableCheck: false&#10;    // })&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="redux-store" value="import {configureStore} from &quot;@reduxjs/toolkit&quot;;&#10;import {AuthSlice, ProductsSlice, TransactionsSlice, UnitMeasurementSlice} from &quot;./slices/index.js&quot;;&#10;&#10;export const store = configureStore({&#10;    reducer: {&#10;        auth: AuthSlice.reducer,&#10;        products: ProductsSlice.reducer,&#10;        unitMeasurement: UnitMeasurementSlice.reducer,&#10;        transactions: TransactionsSlice.reducer,&#10;    },&#10;    // middleware: (getDefaultMiddleware) =&gt; getDefaultMiddleware({&#10;    //     serializableCheck: false&#10;    // })&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="redux-slice" value="import { createSlice } from '@reduxjs/toolkit';&#10;&#10;export const $Counter$Slice = createSlice({&#10;    name: '$Counter$',&#10;    initialState: {&#10;        counter: 10&#10;    },&#10;    reducers: {&#10;        increment: (state, /* action */ ) =&gt; {&#10;            state.counter += 1;&#10;        },&#10;    }&#10;});&#10;&#10;&#10;// eslint-disable-next-line react-refresh/only-export-components&#10;export const {&#10;    increment &#10;} = $Counter$Slice.actions;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="redux-slice" value="import { createSlice } from '@reduxjs/toolkit';&#10;&#10;export const $Counter$Slice = createSlice({&#10;    name: '$Counter$',&#10;    initialState: {&#10;        counter: 10&#10;    },&#10;    reducers: {&#10;        increment: (state, /* action */ ) =&gt; {&#10;            state.counter += 1;&#10;        },&#10;    }&#10;});&#10;&#10;&#10;// eslint-disable-next-line react-refresh/only-export-components&#10;export const {&#10;    increment &#10;} = $Counter$Slice.actions;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Counter" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="redux-main" value="&lt;React.StrictMode&gt;&#10;      &lt;Provider store={store}&gt;&#10;          &lt;BrowserRouter&gt;&#10;              &lt;AppRoute /&gt;&#10;          &lt;/BrowserRouter&gt;&#10;      &lt;/Provider&gt;&#10;  &lt;/React.StrictMode&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="redux-main" value="&lt;React.StrictMode&gt;&#10;      &lt;Provider store={store}&gt;&#10;          &lt;BrowserRouter&gt;&#10;              &lt;AppRoute /&gt;&#10;          &lt;/BrowserRouter&gt;&#10;      &lt;/Provider&gt;&#10;  &lt;/React.StrictMode&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
