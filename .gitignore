@@ -22,3 +22,21 @@ WebStorm2024.2/options/
 WebStorm2024.2/tasks/
 
 WebStorm2024.2/workspace/
+
+*.txt
+
+PhpStorm2024.2/extensions/com.intellij.database/data/aggregators/
+
+*.groovy
+
+*.js
+
+PhpStorm2024.2/jdbc-drivers/
+
+PhpStorm2024.2/options/
+
+PhpStorm2024.2/tasks/
+
+PhpStorm2024.2/workspace/
+
+*.vmoptions
