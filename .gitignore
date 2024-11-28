@@ -40,3 +40,19 @@ PhpStorm2024.2/tasks/
 PhpStorm2024.2/workspace/
 
 *.vmoptions
+
+DataGrip2024.2/.updated_plugins_list
+
+*.key
+
+*.xml
+
+*.repositories
+
+*.jar
+
+*.sha1
+
+*.pom
+
+*.license
